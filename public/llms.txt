@@ -1,0 +1,56 @@
+# Equation Elevation — Generative Engine Optimization Map
+
+> A personal math tutoring service offering private, one-on-one math lessons conducted by an individual tutor. The focus is on personalized academic support, likely catering to students who need extra help or want to advance their math skills in a private setting.
+
+---
+
+## Pages
+
+### Home
+https://equation-elevation-aee9a21c.zappy5.app
+Struggling with numbers? Get personalized one-on-one math tutoring tailored to your learning style. Boost confidence, grades, and skills with a dedicated private teacher. Book your first session now!
+
+## Legal & Policy
+
+### Privacy Policy
+https://equation-elevation-aee9a21c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://equation-elevation-aee9a21c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://equation-elevation-aee9a21c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Equation Elevation
+A personal math tutoring service offering private, one-on-one math lessons conducted by an individual tutor. The focus is on personalized academic support, likely catering to students who need extra help or want to advance their math skills in a private setting.
+
+## Target Audience
+- High School Students
+- College-Bound Teens
+- Concerned Parents
+- STEM Aspirants
+- preschool kids
+
+## Industry
+Education & Tutoring
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://equation-elevation-aee9a21c.zappy5.app/sitemap.xml
+- Robots: https://equation-elevation-aee9a21c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://equation-elevation-aee9a21c.zappy5.app/llms-full.txt
